@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="barriosRequest">http://www.zaragoza.es/api/recurso/sector-publico/territorio/barrio.json</string>
+    <string name="wifiRequest">http://www.zaragoza.es/api/recurso/ciencia-tecnologia/punto-wifi.json</string>
+    <string name="title_activity_distritos">DistritosActivity</string>
+</resources>
